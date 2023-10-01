@@ -4,21 +4,16 @@ import java.util.Scanner;
 
 public class MathOper {
     public static int addition(int a, int b){
-        System.out.println("Сумма двух чисел равна " + (a + b));
         return (a + b);
     }
     public static int subtraction(int a, int b){
-        System.out.println("Разность двух чисел равна " + (a - b));
         return (a - b);
     }
     public static int multiplication(int a, int b){
-        System.out.println("Произведение двух чисел равно " + (a * b));
         return (a * b);
     }
     public static double division(int a, int b){
-        double c = (double) a / b;
-        System.out.println("Частное двух чисел равно " + c);
-        return (c);
+        return ((double) a / b);
     }
     public static void main(String[] args) {
         int a, b;
@@ -27,10 +22,10 @@ public class MathOper {
         a = sc.nextInt();
         System.out.println("Введите второе число ");
         b = sc.nextInt();
-        addition(a, b);
-        subtraction(a, b);
-        multiplication(a, b);
-        division(a, b);
+        System.out.println("Сумма двух чисел равна " + addition(a, b));
+        System.out.println("Разность двух чисел равна " + subtraction(a, b));
+        System.out.println("Произведение двух чисел равно " + multiplication(a, b));
+        System.out.println("Частное двух чисел равно " + division(a, b));
     }
 }
     /*Создайте методы с математическими операциями +, -, *, /

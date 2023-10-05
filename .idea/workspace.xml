@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="Выполнена вторая домашка про &quot;I study Java&quot; и методы с математическими операциями.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task021023/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task021023/TwoWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/task2/MathOper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/task2/MathOper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/task2/IStadyJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/task2/IStadyJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +45,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/olga/IdeaProjects/HomeTask&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/olga/IdeaProjects/HomeTask",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate"
   }
-}</component>
-  <component name="RunManager" selected="Application.MathOper">
+}]]></component>
+  <component name="RunManager">
     <configuration name="IStadyJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.task2.IStadyJava" />
       <module name="HomeTask" />
@@ -115,11 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696004261104</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Выполнена вторая домашка про &quot;I study Java&quot; и методы с математическими операциями.">
+      <option name="closed" value="true" />
+      <created>1696139855297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696139855297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнена вторая домашка про &quot;I study Java&quot; и методы с математическими операциями." />
     <option name="LAST_COMMIT_MESSAGE" value="Выполнена вторая домашка про &quot;I study Java&quot; и методы с математическими операциями." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

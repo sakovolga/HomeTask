@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="Выполнена вторая домашка про &quot;I study Java&quot; и методы с математическими операциями.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task021023/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task021023/TwoWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/task2/IStadyJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/task2/IStadyJava.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="added homework for 10/02/2023 about gluing two words together and arithmetic operations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,12 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696139855297</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added homework for 10/02/2023 about gluing two words together and arithmetic operations">
+      <option name="closed" value="true" />
+      <created>1696517723139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696517723139</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнена вторая домашка про &quot;I study Java&quot; и методы с математическими операциями." />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнена вторая домашка про &quot;I study Java&quot; и методы с математическими операциями." />
+    <MESSAGE value="added homework for 10/02/2023 about gluing two words together and arithmetic operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework for 10/02/2023 about gluing two words together and arithmetic operations" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

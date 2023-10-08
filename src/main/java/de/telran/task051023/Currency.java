@@ -7,7 +7,7 @@ public class Currency {
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите сумму в евро: ");
         double usd = sc.nextDouble();
-        System.out.println(usd + " долларов = " + convertEurToUsd(usd) + " евро");
+        System.out.println(usd + " евро = " + convertEurToUsd(usd) + " долларов США");
     }
     static public double convertEurToUsd(double euro){
         return euro*1.06;

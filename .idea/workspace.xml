@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="added homework for 12/02/2023 about pizza, currency and NumberSystems">
+    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="added homework for 12/02/2023 about pizza, currency(editted) and NumberSystems">
       <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/task051023/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/task051023/Currency.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,14 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696675071498</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added homework for 12/02/2023 about pizza, currency(editted) and NumberSystems">
+      <option name="closed" value="true" />
+      <created>1696750259255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696750259255</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнена вторая домашка про &quot;I study Java&quot; и методы с математическими операциями." />
     <MESSAGE value="added homework for 10/02/2023 about gluing two words together and arithmetic operations" />
     <MESSAGE value="added homework for 12/02/2023 about pizza, currency and NumberSystems" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework for 12/02/2023 about pizza, currency and NumberSystems" />
+    <MESSAGE value="added homework for 12/02/2023 about pizza, currency(editted) and NumberSystems" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework for 12/02/2023 about pizza, currency(editted) and NumberSystems" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

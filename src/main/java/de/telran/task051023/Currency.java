@@ -6,8 +6,8 @@ public class Currency {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите сумму в евро: ");
-        double usd = sc.nextDouble();
-        System.out.println(usd + " евро = " + convertEurToUsd(usd) + " долларов США");
+        double euro = sc.nextDouble();
+        System.out.println(euro + " евро = " + convertEurToUsd(euro) + " долларов США");
     }
     static public double convertEurToUsd(double euro){
         return euro*1.06;

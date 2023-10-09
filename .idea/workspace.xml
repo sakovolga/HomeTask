@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="added homework for 12/02/2023 about pizza, currency(editted) and NumberSystems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task091023/CloserNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task091023/WorkingDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="added homework for 09/10/2023 about CloserNumbers and WorkingDay" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696750487139</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added homework for 09/10/2023 about CloserNumbers and WorkingDay">
+      <option name="closed" value="true" />
+      <created>1696872203279</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696872203279</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,7 +177,8 @@
     <MESSAGE value="added homework for 10/02/2023 about gluing two words together and arithmetic operations" />
     <MESSAGE value="added homework for 12/02/2023 about pizza, currency and NumberSystems" />
     <MESSAGE value="added homework for 12/02/2023 about pizza, currency(editted) and NumberSystems" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework for 12/02/2023 about pizza, currency(editted) and NumberSystems" />
+    <MESSAGE value="added homework for 09/10/2023 about CloserNumbers and WorkingDay" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework for 09/10/2023 about CloserNumbers and WorkingDay" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

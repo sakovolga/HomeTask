@@ -20,8 +20,7 @@ public class CloserNumbers {
     public static double getNumber() {
         Scanner number = new Scanner(System.in);
         System.out.print("Введите число: ");
-        double newNumber = number.nextDouble();
-        return newNumber;
+        return number.nextDouble();
     }
 }
 

@@ -6,15 +6,15 @@ public class WorkingDay {
     public static void main(String[] args) {
         Random random = new Random();
         int sec = random.nextInt(28800);
-        System.out.println(sec);
+        System.out.println(sec + " секунд");
         int hour = sec / 3600;
-        System.out.println(sec + " секунд - это " + hour + " полных часов");
-        if (hour>=1){
-            System.out.println("Осталось " + hour + " часов");
-        }
-        else {
-            System.out.println("Осталось меньше часа");
-        }
+        if (hour==1){
+            System.out.println("Остался 1 час");}
+        else if (hour > 1 && hour < 5){
+            System.out.println("Осталось " + hour + " часа");}
+        else if (hour >= 5){
+            System.out.println("Осталось " + hour + " часов");}
+        else {System.out.println("Осталось меньше часа");}
     }
 }
 

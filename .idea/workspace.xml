@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="added homework for 09/10/2023 about CloserNumbers and WorkingDay">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task161023/Flasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task161023/MoneyFromTheBank.java" afterDir="false" />
+    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="added homework for 16/10/2023 about MoneyFromTheBank  and Flasks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task181023/IncreasingSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task181023/ReplacedIndexesByZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/olga/IdeaProjects/HomTask",
-    "settings.editor.selected.configurable": "proofread"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/olga/IdeaProjects/Java-basic-190923-m&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="IStadyJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.task2.IStadyJava" />
@@ -197,7 +197,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696943865682</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added homework for 16/10/2023 about MoneyFromTheBank  and Flasks">
+      <option name="closed" value="true" />
+      <created>1697541295982</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697541295982</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added homework for 16/10/2023 about MoneyFromTheBank  and Flasks">
+      <option name="closed" value="true" />
+      <created>1697541331901</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697541331901</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,18 +222,8 @@
     <MESSAGE value="added homework for 12/02/2023 about pizza, currency and NumberSystems" />
     <MESSAGE value="added homework for 12/02/2023 about pizza, currency(editted) and NumberSystems" />
     <MESSAGE value="added homework for 09/10/2023 about CloserNumbers and WorkingDay" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework for 09/10/2023 about CloserNumbers and WorkingDay" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/de/telran/task161023/MoneyFromTheBank.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="added homework for 16/10/2023 about MoneyFromTheBank  and Flasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework for 16/10/2023 about MoneyFromTheBank  and Flasks" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

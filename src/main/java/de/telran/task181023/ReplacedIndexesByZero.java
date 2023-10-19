@@ -5,21 +5,21 @@ import java.util.Random;
 
 public class ReplacedIndexesByZero {
     public static void main(String[] args) {
-        int[] arrInt = getInts(8);
+        int[] arrInt = getInts();
         System.out.println("Первоначальный массив " + Arrays.toString(arrInt));
         System.out.println("Новый массив " + Arrays.toString(replaceToZero(arrInt)));
     }
     private static int[] replaceToZero(int[] arrInt) {
         for(int i = 0; i < arrInt.length; i++){
-            if (i % 2 == 0){
+            if (i % 2 != 0){
                 arrInt[i] = 0;
             }
         }
         return arrInt;
     }
-    private static int[] getInts(int arrLenght) {
+    private static int[] getInts() {
         Random random = new Random();
-        int[] arrInt = new int[arrLenght];
+        int[] arrInt = new int[8];
         for(int i = 0; i < arrInt.length; i++){
             arrInt[i] = random.nextInt(50) + 1;
         }

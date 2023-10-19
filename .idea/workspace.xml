@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="added homework for 16/10/2023 about MoneyFromTheBank  and Flasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task181023/IncreasingSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/task181023/ReplacedIndexesByZero.java" afterDir="false" />
+    <list default="true" id="7e849692-5bff-414c-a49e-570c37b8f8ff" name="Changes" comment="added homework for 18/10/2023 about ReplacedIndexesByZero  and IncreasingSequence">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/task181023/ReplacedIndexesByZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/task181023/ReplacedIndexesByZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697541331901</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added homework for 18/10/2023 about ReplacedIndexesByZero  and IncreasingSequence">
+      <option name="closed" value="true" />
+      <created>1697736261868</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697736261868</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,7 +230,8 @@
     <MESSAGE value="added homework for 12/02/2023 about pizza, currency(editted) and NumberSystems" />
     <MESSAGE value="added homework for 09/10/2023 about CloserNumbers and WorkingDay" />
     <MESSAGE value="added homework for 16/10/2023 about MoneyFromTheBank  and Flasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework for 16/10/2023 about MoneyFromTheBank  and Flasks" />
+    <MESSAGE value="added homework for 18/10/2023 about ReplacedIndexesByZero  and IncreasingSequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework for 18/10/2023 about ReplacedIndexesByZero  and IncreasingSequence" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

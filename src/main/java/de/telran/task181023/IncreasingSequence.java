@@ -10,16 +10,13 @@ public class IncreasingSequence {
         System.out.println("Это строго возрастающая последовательность? " + isSequenceIncreasing(arrInt));
     }
     private static boolean isSequenceIncreasing(int[] arrInt) {
-        boolean bool = false;
+        boolean bool = true;
        for (int i = 0; i < arrInt.length-1; i++) {
             if (arrInt[i] > arrInt[i + 1]){
                 bool =  false;
                 break;
             }
-            else {
-                bool =  true;
-            }
-        }
+       }
        return bool;
     }
     private static int[] getArrInt() {

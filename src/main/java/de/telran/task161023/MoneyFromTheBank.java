@@ -30,6 +30,12 @@ public class MoneyFromTheBank {
         }
         return divisor;
     }
+    public static int getMaxDivisorCorrectedByTeacher (int n) {
+        for (int i = n-1; i > 1 ; i--) {
+            if (n%i == 0) return i;
+        }
+        return 1;
+    }
 }
 
 //    У вас на банковском счету N долларов.

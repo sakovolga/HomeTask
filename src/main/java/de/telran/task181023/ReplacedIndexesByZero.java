@@ -10,10 +10,8 @@ public class ReplacedIndexesByZero {
         System.out.println("Новый массив " + Arrays.toString(replaceToZero(arrInt)));
     }
     private static int[] replaceToZero(int[] arrInt) {
-        for(int i = 0; i < arrInt.length; i++){
-            if (i % 2 != 0){
-                arrInt[i] = 0;
-            }
+        for(int i = 1; i < arrInt.length; i += 2){
+            arrInt[i] = 0;
         }
         return arrInt;
     }

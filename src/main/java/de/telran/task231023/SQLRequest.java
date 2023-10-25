@@ -1,7 +1,5 @@
 package de.telran.task231023;
 
-import java.util.Arrays;
-
 public class SQLRequest {
     public static void main(String[] args) {
 

@@ -4,11 +4,10 @@ public class SQLRequest {
     public static void main(String[] args) {
 
         String cars = "{\"model\", \"V-60\", \"country\", \"Germany\", \"city\", \"Berlin\", \"year\", null, \"active\", true}";
-        cars = getStringWithoutExtraCharacters(cars);
+        cars = getStringWithoutExtraCharacters(cars);  //make String without {}
         String[] words = cars.split(", ");
-        String[] rightWords = getArrayWithoutExtaCharacters(words);
-        StringBuilder sb = getStringBuilder(rightWords);
-        System.out.println(sb);
+        String[] rightWords = getArrayWithoutExtaCharacters(words);  //make Strings in array without ""
+        System.out.println(getStringBuilder(rightWords));
     }
     private static StringBuilder getStringBuilder(String[] rightWords) {
         StringBuilder sb = new StringBuilder("SELECT * FROM cars WHERE ");
